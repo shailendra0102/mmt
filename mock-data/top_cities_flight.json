@@ -1,0 +1,22 @@
+[
+   {"airport_data":"Indira Gandhi International Airport","iata":"DEL","city":"New Delhi","country": "India","label": "New Delhi, India ","isDom": "Y", "fph_cty_s":"IN", "fph_cd_s":"DEL", "category":"Top Cities"},
+   {"airport_data":"Chhatrapati Shivaji International Airport","iata":"BOM","city":"Mumbai","country": "India","label": "Mumbai, India ","isDom": "Y", "fph_cty_s":"IN", "fph_cd_s":"BOM", "category":"Top Cities"},
+   {"airport_data":"Bengaluru International Airport","iata":"BLR","city":"Bangalore","country": "India","label": "Bangalore, India ","isDom": "Y", "fph_cty_s":"IN", "fph_cd_s":"BLR", "category":"Top Cities"},
+   {"airport_data":"Dabolim Goa International Airport","iata":"GOI","fph_cd_s":"GOI","fph_cty_s":"IN","city":"Goa","country": "India","label": "Goa, India ","isDom": "Y", "category":"Top Cities"},
+   {"airport_data":"Madras,Chennai International Airport","iata":"MAA","city":"Chennai","country": "India","label": "Chennai, India ","isDom": "Y", "fph_cty_s":"IN", "fph_cd_s":"MAA", "category":"Top Cities"},
+   {"airport_data":"Netaji Subhash Chandra Bose International Airport","iata":"CCU","city":"Kolkata","country": "India","label": "Kolkata, India ","isDom": "Y","fph_cty_s":"IN", "fph_cd_s":"CCU", "category":"Top Cities"},
+   {"airport_data":"Rajiv Gandhi International Airport","iata":"HYD","city":"Hyderabad","country": "India","label": "Hyderabad, India ","isDom": "Y", "fph_cty_s":"IN", "fph_cd_s":"HYD", "category":"Top Cities"},
+   {"airport_data":"Pune Airport","iata":"PNQ","city":"Pune","country": "India","label": "Pune, India ","isDom": "Y","fph_cty_s":"IN", "fph_cd_s":"PNQ", "category":"Top Cities"},
+   {"airport_data":"Sardar Vallabhbhai Patel International Airport","iata":"AMD","city":"Ahmedabad","country": "India","label": "Ahmedabad, India ","isDom": "Y", "fph_cty_s":"IN", "fph_cd_s":"AMD", "category":"Top Cities"},
+   {"airport_data":"Cochin International Airport Limited","iata":"COK","city":"Cochin","country": "India","label": "Cochin, India ","isDom": "Y","fph_cty_s":"IN", "fph_cd_s":"COK", "category":"Top Cities"},
+   {"airport_data":"Jaipur Airport","iata":"JAI","city":"Jaipur","country": "India","label": "Jaipur, India ","isDom": "Y", "fph_cty_s":"IN", "fph_cd_s":"JAI", "category":"Top Cities"},
+   {"airport_data":"Dubai International Airport","iata":"DXB","city":"Dubai","country": "UAE","label": "Dubai, UAE ","isDom": "N", "fph_cty_s":"AE", "fph_cd_s":"DXB", "category":"Top Cities"},
+   {"airport_data":"Changi Airport","iata":"SIN","city":"Singapore","country": "Singapore","label": "Singapore, Singapore ","isDom": "N","fph_cty_s":"SG", "fph_cd_s":"SIN", "category":"Top Cities"},
+   {"airport_data":"Suvarnabhumi Airport","iata":"BKK","city":"Bangkok","country": "Thailand","label": "Bangkok, Thailand ","isDom": "N","fph_cty_s":"TH", "fph_cd_s":"BKK", "category":"Top Cities"},
+   {"airport_data":"All Airports","iata":"NYC","city":"New York","country": "US","label": "New York, US - All Airports ","isDom": "N","fph_cty_s":"US", "fph_cd_s":"NYC", "category":"Top Cities"},
+   {"airport_data":"Kuala Lumpur International Airport","iata":"KUL","city":"Kuala Lumpur","country": "Malaysia","label": "Kuala Lumpur, Malaysia ","isDom": "N","fph_cty_s":"MY", "fph_cd_s":"KUL", "category":"Top Cities"},
+   {"airport_data":"All Airports","iata":"LON","city":"London","country": "UK","label": "London, UK - All Airports ","isDom": "N","fph_cty_s":"GB", "fph_cd_s":"LON", "category":"Top Cities"},
+   {"airport_data":"Hong Kong International Airport","iata":"HKG","city":"Hong Kong","country": "China","label": "Hong Kong, China ","isDom": "N","fph_cty_s":"HK", "fph_cd_s":"HKG", "category":"Top Cities"},
+   {"airport_data":"Hamad International Airport","iata":"DOH","city":"Doha","country": "Qatar","label": "Doha, Qatar ","isDom": "N","fph_cty_s":"QA", "fph_cd_s":"DOH", "category":"Top Cities"},
+   {"airport_data":"Bandaranaike International Airport","iata":"CMB","city":"Colombo","country": "Sri Lanka","label": "Colombo, Sri Lanka ","isDom": "N","fph_cty_s":"LK", "fph_cd_s":"CMBZ", "category":"Top Cities"}
+]

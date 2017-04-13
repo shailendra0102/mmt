@@ -1,0 +1,53 @@
+[
+		{
+			"label" : "Air India",
+			"val" : "AI",
+			"category" : ""
+		},
+		{
+			"label" : "Jet Airways",
+			"val" : "9W",
+			"category" : ""
+		},
+		{
+			"label" : "Vistara",
+			"val" : "UK",
+			"category" : ""
+		},
+		{
+			"label" : "IndiGo",
+			"val" : "6E",
+			"category" : ""
+		},
+		{
+			"label" : "SpiceJet",
+			"val" : "SG",
+			"category" : ""
+		},
+		{
+			"label" : "GoAir",
+			"val" : "G8",
+			"category" : ""
+		},
+		{
+			"label" : "AirAsia",
+			"val" : "I5",
+			"category" : ""
+		},
+		{
+			"label" : "Air Pegasus",
+			"val" : "OP",
+			"category" : ""
+		}
+		,
+		{
+			"label" : "Air Costa",
+			"val" : "LB",
+			"category" : ""
+		}
+		,
+		{
+			"label" : "TruJet",
+			"val" : "2T",
+			"category" : ""
+		}]
