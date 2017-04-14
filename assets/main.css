@@ -1,0 +1,26 @@
+.background-image{
+	 background-image: url("../MUELLER-GRID-SYSTEM.jpg");
+	 width:100%;
+	 height:450px;
+	 background-size: contain;
+	 background-repeat: no-repeat;
+}
+
+.template-wrapper{
+	background-color: #124680;
+	color:#f5f5f5;
+	width: 90%;
+	min-height: 500px;
+	margin:0 auto;		
+}
+
+.btn-group label{
+	border-radius:10px !important;
+	margin-right:10px;
+}
+.btn-primary:active, .btn-primary.active, .btn-primary.active.focus
+{
+	background-color: #f5f5f5;
+	color:#124680;
+	border:0px;
+}
